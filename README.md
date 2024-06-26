@@ -16,7 +16,7 @@ Esta ferramenta foi projetada para enviar emails em massa de forma eficiente e s
 2. Coloque os endereços de email dos destinatários no arquivo `email.txt`, um por linha.
 3. Execute o script e siga as instruções para definir o número de envios.
 
-![email py](emailpy.gif)
+![email py](emailpy.png)
 
 
 
